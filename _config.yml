@@ -1,0 +1,92 @@
+# Site configuration
+# 1. Files excluded from Jekyll builds
+# 2. Installed Gems
+# 3. Gem settings
+# 4. Jekyll settings
+# 5. Collections
+# 6. Jekyll collections settings
+# 7. Site settings
+# 8. Site navigation
+
+# 1. Files excluded from Jekyll builds
+exclude:
+- README.md
+- CNAME
+- Gemfile
+- Gemfile.lock
+
+# 2. Installed Gems
+gems:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jemoji
+
+# 3. Gem settings
+jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+twitter:
+  username: BaseKit # jekyll-seo-tag > Owners twitter username
+author: BaseKit # jekyll-seo-tag > default author
+social: # jekyll-seo-tag > social overrides
+  name: BaseKit # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://twitter.com/BaseKit
+    - https://www.facebook.com/TeamBaseKit
+    - https://www.linkedin.com/company-beta/744383/
+    - https://plus.google.com/+BaseKit
+    - https://github.com/BaseKit
+
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: Europe/London # Timezone for blog posts and alike
+
+# 6. Jekyll collections settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: page # Default layout
+      image: "/assets/placeholder-social.png" # Default image for sharing
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post # Default layout
+      image: "/assets/placeholder-social.png" # Default image for sharing
+
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+title: "BaseKit Brand Guidelines" # Site name or title, also used in jekyll-seo-tag
+logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
+description: "Official brand guidelines for the BaseKit platform" # Site description and default description, also used in jekyll-seo-tag
+url: "http://basekitbrand.com" # Site url, also used in jekyll-seo-tag
+repo: "https://github.com/basekit/basekitbrand.com"
+email: "info@basekit.com"
+avatarurl: "https://avatars0.githubusercontent.com/u/1006602" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+
+# 8. Site navigation
+navigation_header:
+  Home: /
+
+navigation_aside:
+  Home: /
+  Search: /search/
+
+navigation_footer:
+  BaseKit: http://basekit.com
+
+social_links:
+  Twitter: https://twitter.com/BaseKit
+  Facebook: https://www.facebook.com/TeamBaseKit
+  LinkedIn: https://www.linkedin.com/company-beta/744383/
+  Google+: https://plus.google.com/+BaseKit
+  GitHub: https://github.com/BaseKit
