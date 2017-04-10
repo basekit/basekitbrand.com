@@ -61,6 +61,8 @@ navigation_header:
   Home: "/"
 navigation_aside:
   Home: "/"
+  Guidelines: "/guidelines/"
+  Assets & Resources: "/assets-and-resources/"
   Search: "/search/"
 navigation_footer:
   BaseKit: http://basekit.com
