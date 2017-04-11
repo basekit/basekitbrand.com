@@ -26,11 +26,13 @@ Another list
 And another list
 
 * Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat nulla rerum ipsa sint a eveniet quos cum repellendus porro tempora, inventore aperiam est quisquam vitae quia eos. Autem, iusto, inventore.
+<br/>
 * Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat nulla rerum ipsa sint a eveniet quos cum repellendus porro tempora, inventore aperiam est quisquam vitae quia eos. Autem, iusto, inventore.
 
 Once more
 
 * Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat nulla rerum ipsa sint a eveniet quos cum repellendus porro tempora, inventore aperiam est quisquam vitae quia eos. Autem, iusto, inventore.
+<br/>
 
 * Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat nulla rerum ipsa sint a eveniet quos cum repellendus porro tempora, inventore aperiam est quisquam vitae quia eos. Autem, iusto, inventore.
 
