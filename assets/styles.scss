@@ -431,4 +431,11 @@ pre code {
   hr {
     width: 100%;
   }
+  ul > li,
+  ol > li {
+    p {
+      margin: 0;
+      padding: 0;
+    }
+  }
 }
