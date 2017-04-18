@@ -1,7 +1,7 @@
 ---
 title: Tone of voice
 date: 2017-04-10 11:38:00 +01:00
-position: 3
+position: 2
 ---
 
 * “Talking about BaseKit” (Introduction)
