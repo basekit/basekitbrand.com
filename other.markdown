@@ -1,7 +1,7 @@
 ---
 title: Other resources
 date: 2017-04-10 11:40:00 +01:00
-position: 4
+position: 2
 ---
 
 * BaseKit Logo
