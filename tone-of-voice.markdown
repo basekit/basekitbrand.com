@@ -1,5 +1,5 @@
 ---
-title: Guidelines
+title: Tone of voice
 date: 2017-04-10 11:38:00 +01:00
 ---
 
