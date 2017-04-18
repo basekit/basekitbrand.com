@@ -58,14 +58,19 @@ repo: https://github.com/basekit/basekitbrand.com
 email: info@basekit.com
 avatarurl: https://avatars0.githubusercontent.com/u/1006602
 navigation_header:
+  Search: "/search/"
+  About: "/about/"
   Home: "/"
 navigation_aside:
-  Home: "/"
-  Guidelines: "/guidelines/"
-  Assets & Resources: "/assets-and-resources/"
-  Search: "/search/"
+  Logo: "/logo/"
+  Colours: "/colours/"
+  Typography: "/typography/"
+  Iconography: "/iconography/"
+  Photography: "/photography/"
+  Videos: "/videos/"
+  Other resources: "/other/"
 navigation_footer:
-  BaseKit: http://basekit.com
+  BaseKit website: http://basekit.com
 social_links:
   Twitter: https://twitter.com/BaseKit
   Facebook: https://www.facebook.com/TeamBaseKit

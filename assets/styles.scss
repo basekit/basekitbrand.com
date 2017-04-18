@@ -67,7 +67,6 @@ body {
   display: inline-block;
   line-height: 0;
   img {
-    width: 2rem;
     height: 2rem;
   }
 }
@@ -147,7 +146,7 @@ body {
 .content {
   width: 100%;
   @include breakpoint(break-1) {
-    width: 62%;
+    width: 72%;
     margin-left: 4%;
     @include order(2);
     &--full {
@@ -169,7 +168,7 @@ body {
 .aside {
   max-width: 100%;
   @include breakpoint(break-1) {
-    max-width: 34%;
+    max-width: 24%;
     @include flex(1, 0, auto);
   }
 }
@@ -213,7 +212,7 @@ body {
   }
   &--current {
     a {
-      color: $color__site--link--current;
+      opacity: 0.5;
     }
   }
 }
