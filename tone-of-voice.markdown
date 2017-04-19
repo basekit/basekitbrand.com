@@ -6,14 +6,12 @@ position: 8
 
 * “Talking about BaseKit” (Introduction)
 
-* Logo & Brand usage
+* Dos and don'ts
 
-* Colours
+* Example words and wording
 
-* Typography
+* Reference content
 
-* Iconography & Graphics
-
-* Photography
+* Example text content (for a demo site)
 
 * Q & A
