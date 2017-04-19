@@ -14,4 +14,4 @@ position: 5
 
 * Agnostic photos
 
-* Example content photos
+* Example content photos (for a demo site)
